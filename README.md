@@ -1,4 +1,4 @@
-First Next Project Training
+First Next Project Training For Next Rivalary
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
